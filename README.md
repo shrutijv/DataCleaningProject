@@ -11,13 +11,13 @@ www.smartlab.ws
 
 The following data set is modification to original dataset mentioned above. The provided dataset includes following file:
 
--  ‘README. md’
+-  README. md
     - describes what can be found in the files
 
--  ’CodeBook.md’
+-  CodeBook.md
     - describes variable description 
 
-- ‘run_analysis.R’
+- run_analysis.R
     - actual R code
     - input all the files
     - assigns column name and extract data for mean and std only
@@ -26,7 +26,7 @@ The following data set is modification to original dataset mentioned above. The 
     - generate aggregate for all the variables for all the combinations of subject and activity
     - exports the data in working directory
 
-- ’TidyData.txt’
+- TidyData.txt
     - generated tidy dataset
     - dimension 180 rows and 88 veriables
 
